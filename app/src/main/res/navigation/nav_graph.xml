@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph">
+
+    <fragment
+        android:id="@+id/introDest"
+        android:name="com.dmadunts.samples.infinsample.screens.intro.IntroFragment"
+        android:label="@string/Login"
+        tools:layout="@layout/fragment_intro" />
+    <fragment
+        android:id="@+id/searchDest"
+        android:name="com.dmadunts.samples.infinsample.screens.search.SearchFragment"
+        android:label="@string/Search"
+        tools:layout="@layout/fragment_search" />
+
+    <fragment
+        android:id="@+id/loginDest"
+        android:name="com.dmadunts.samples.infinsample.screens.login.LoginFragment"
+        android:label="LoginFragment"
+        tools:layout="@layout/fragment_login" />
+</navigation>

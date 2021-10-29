@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name" translatable="false">InfinSample</string>
+    <string name="NoConnectivityException">No network connection</string>
+    <string name="Login">Login</string>
+    <string name="Search">Search</string>
+    <string name="SignInWithGithub">Sign in with Github</string>
+    <string name="EnterGithubRepository">Enter repository name</string>
+    <string name="NothingFound">Nothing found</string>
+    <string name="Error">Error</string>
+    <string name="retry">Retry</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="NoConnectivityException">Нет сети</string>
+    <string name="Login">Войти</string>
+    <string name="Search">Поиск</string>
+    <string name="SignInWithGithub">Войти при помощи Github</string>
+    <string name="EnterGithubRepository">Введите название репозитория</string>
+    <string name="NothingFound">Ничего не найдено</string>
+    <string name="Error">Ошибка</string>
+    <string name="retry">Повторить</string>
+</resources>
